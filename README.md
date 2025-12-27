@@ -13,7 +13,7 @@ It is built to practice HTML, CSS with a focus on clean UI.
 - CSS
 
 ## 📸 Screenshots
-<img width="1898" height="869" alt="Screenshot 2025-12-27 180323" src="https://github.com/user-attachments/assets/5a7bf86b-bd1c-4c31-a6ef-7e4b47ed638f" />
+<img width="1897" height="866" alt="Screenshot 2025-12-27 194139" src="https://github.com/user-attachments/assets/4fac3f8d-708f-4dd0-a203-867d63b2af54" />
 
 ## 🔧 How to Run
 1. Clone the repository
@@ -34,4 +34,5 @@ This project is inspired by the Groww website and is created for learning purpos
 GitHub: https://github.com/sangram-jr 
 LinkedIn: https://www.linkedin.com/in/sangrambera/
 X: https://x.com/SangramJr
+
 
